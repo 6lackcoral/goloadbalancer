@@ -1,0 +1,7 @@
+{
+  "listenPort" : ":8001",
+  "healthCheckInterval" : "5s",
+  "servers": [
+    "http://localhost:8083"
+  ]
+}
